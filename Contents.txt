@@ -1,4 +1,4 @@
 > These files will be included in your book:
 
-chapter1.txt
+Haupttext.txt
 Quellen.txt
